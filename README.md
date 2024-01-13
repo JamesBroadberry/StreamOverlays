@@ -6,3 +6,4 @@ A collection of useful tools to add to a stream as HTML sources
 
  - [Clock](Clock.md)
  - [Image Slideshow](ImageSlideshow.md)
+ - [DbD Pip Tracker](DbdPipTracker.md)
